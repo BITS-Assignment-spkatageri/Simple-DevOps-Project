@@ -13,3 +13,6 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Docker &
 - Kubernetes
 
+###This is part of DevOps Assignment - 
+ - readme file update and commit
+
